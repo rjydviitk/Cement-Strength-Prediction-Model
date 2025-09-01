@@ -48,11 +48,3 @@ Model deployed on cloud platform
 ## Dashboard Overview-
 
 <img width="923" alt="image" src="https://user-images.githubusercontent.com/90152799/180617470-107ab536-9024-4dbd-a683-83f6e4ef971c.png">
-
-
-Want to contribute in this ?
-
-Just raise an issue and start working .
-
-If you liked my work on this project, do ⭐ and share this repository.
-"# Cement_Strength_Prediction" 
